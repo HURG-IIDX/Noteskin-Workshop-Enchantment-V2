@@ -1,8 +1,7 @@
-local t = Def.Model {
-	Meshes="_mine model.txt";
-	Materials="_mine model.txt";
-	Bones="_mine model.txt";
+local t = Def.ActorFrame {
+	Def.Sprite {
+		Texture=NOTESKIN:GetPath( '_down', 'tap mine' );
+		Frames = Sprite.LinearFrames( 64, 1 );
+	};
 };
-
 return t;
-
