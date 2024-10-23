@@ -6,6 +6,7 @@ local t = Def.ActorFrame {
 	Def.Sprite {
 		Texture=NOTESKIN:GetPath( '_down', 'Receptor tex' );
 		Frames = Sprite.LinearFrames( 64, 2 );
+		InitCommand=cmd(effectclock,"beat";diffuseramp;effectcolor1,1,1,1,1;effectcolor2,1,1,1,1;effectperiod,0.5;effecttiming,0.25,0.50,0,0.25;effectoffset,-0.25);
 		NoneCommand=NOTESKIN:GetMetricA("ReceptorArrow", "NoneCommand");
 		PressCommand=NOTESKIN:GetMetricA("ReceptorArrow", "PressCommand");
 		LiftCommand=NOTESKIN:GetMetricA("ReceptorArrow", "LiftCommand");
