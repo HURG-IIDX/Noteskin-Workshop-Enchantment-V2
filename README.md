@@ -12,10 +12,13 @@ There are a lot of arrow customization options (over 400!) including color sets 
 There a two sets of variations for each color scheme. 
 
 Using the ITG color scheme as an example, there are "Ornate" variations which include the floral pattern similar to the original enchantment:
+
 ![Ornate](https://github.com/user-attachments/assets/59d52b6c-177c-4d78-8a28-83a20d21b3f3)
 
 And there are also "plain" versions with the floral patterns removed for a more simple look:
+
 ![Plain](https://github.com/user-attachments/assets/e695fd3c-ee79-49b0-aa59-a7b87ca6d187)
 
 This noteskin also supports lifts. There are a few options for lifts in both ornate and plain types. Here are the "spectrum" variations as an example
+
 ![ezgif-7d4385deb11aff](https://github.com/user-attachments/assets/b8cd000e-a15f-46e5-9593-5fce108dabf8)
