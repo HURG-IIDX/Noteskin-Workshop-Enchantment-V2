@@ -55,3 +55,38 @@ And there are also dot types:
 
 ![Dot Size](https://github.com/user-attachments/assets/25226b04-118a-411b-99d6-772160d4cccb)
 
+-----------------------------------Receptors-----------------------------------
+
+Receptors can be color customized. There are three arttributes for each color, giving a total of eight types. Using the "Vapor" color as an example:
+
+There are "Classic" and "Frame" types:
+
+![01 Classic Vs Frame](https://github.com/user-attachments/assets/94331026-01bc-4479-9e8c-63b350d02235)
+
+Then, each of those have a "Plain" and "Ornate" version
+
+![02 Plain vs Ornate](https://github.com/user-attachments/assets/4057d809-647a-494b-b3d0-25a74c6db0fe)
+
+And finally, all of those have a "static" and "animated" version
+
+![03 Static Vs Animated](https://github.com/user-attachments/assets/72fab9cf-299d-4c60-a976-b9fb6009a7a6)
+
+The receptor pulse that goes along witht he song BPM can also be toggled on and off as well
+
+![Off Vs  On](https://github.com/user-attachments/assets/b07c0d4d-59b5-4d54-80f4-77e6c3babb8e)
+
+---------------------------------------------------------------------------------
+
+Customization Instructions:
+
+First extract the "Enchantment V2 - Workshop" folder and place it in your Stepmania install in your noteskins>dance folder. This is the noteskin you will be using as a base for customization. Feel free to rename it as this will be something you can make your own!
+
+It is highly recommended you check the "previews" folder and check to see what color options you want, they are in an easily browsable and viewable format.
+
+In the "Customizations" folder you will find the files/assets needed to change different aspects of the noteskin. Each aspect has numerous color options. Within each color folder you will find the asset files needed to change the color of the noteskin aspect. Place those in your Enchantment V2 - Workshop (or whatever you renamed it to if you did) folder and replace the existing files.
+
+NOTE: For arrow customizations, if you are using any of the "RGB" or DDR Vivid" Variations, it is recommended you open the metrics.ini and change the TapNoteAnimationLength=2 to TapNoteAnimationLength=4. The colors may appear to cycle too quickly if left at 2, but you can leave it at 2 if you prefer.
+
+Please note that the customization files for this slightly differ in filename from the enchantment noteskin includeed with ITGMania, so please use the one included in this download for your color customization needs.
+
+
