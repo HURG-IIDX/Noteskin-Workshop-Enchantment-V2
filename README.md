@@ -1,6 +1,6 @@
 (Scroll down to the bottom for Customization Instructions!)
 
-Welcome to the noteskin workshop for Enchantment V2! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. All customization options have preview images that can be browsed in the "previews" folder. Please note that preview images are almost entirely presented at a lower resolution and /or are compressed to reduce file size.
+Welcome to the noteskin workshop for Enchantment V2! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. All customization options have preview images that can be browsed in the "previews" folder. Please note that preview images are almost entirely presented at a lower resolution and/or framerate to reduce file size.
 
 This noteskin was made primarily for ITGMania, but it should work with other versions of modern Stepmania.
 
@@ -16,3 +16,6 @@ Using the ITG color scheme as an example, there are "Ornate" variations which in
 
 And there are also "plain" versions with the floral patterns removed for a more simple look:
 ![Plain](https://github.com/user-attachments/assets/e695fd3c-ee79-49b0-aa59-a7b87ca6d187)
+
+This noteskin also supports lifts. There are a few options for lifts in both ornate and plain types. Here are the "spectrum" variations as an example
+![ezgif-7d4385deb11aff](https://github.com/user-attachments/assets/b8cd000e-a15f-46e5-9593-5fce108dabf8)
