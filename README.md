@@ -32,3 +32,26 @@ Tap explosions can be customized to different match different judgement color se
 Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal. There are Plain and Ornate versions of every option. By default the skin uses the Ornate "Default" minimal color option. You can also disable hold explosions entirely with the "no explosions" customization option. Here is a preview image of some of the hold explosion options:
 
 ![ezgif-7d3bd174420315](https://github.com/user-attachments/assets/dba6822a-5000-40ac-94d4-c6cf0991caf8)
+
+-----------------------------------Holds and Rolls-----------------------------------
+
+Holds and rolls (active and inactive) can be color customized. Every color option has four types for holds and rolls, and any of the 4 types can be set as active or inactive. Feel free to mix and match different options! Here is a preview image of some of the hold and roll options:
+
+![ezgif-70605605cb0b81](https://github.com/user-attachments/assets/f6b55627-aa66-4a3a-9a53-465eff769028)
+
+-----------------------------------Mines-----------------------------------
+
+Mines can be color customized, and for every color option there are three types, each with 2-4 variations. Using the "default" color as an example:
+
+There are normal, full size types:
+
+![Normal Size](https://github.com/user-attachments/assets/90a1ee95-f2dc-4e8c-9b26-747bf2675031)
+
+Ther are mini types:
+
+![Mini Size](https://github.com/user-attachments/assets/b8d36742-41a4-497f-8a76-313afe267ccd)
+
+And there are also dot types:
+
+![Dot Size](https://github.com/user-attachments/assets/25226b04-118a-411b-99d6-772160d4cccb)
+
